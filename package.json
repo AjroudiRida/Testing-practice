@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AjroudiRida/Testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AjroudiRida/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/AjroudiRida/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
